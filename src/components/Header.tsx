@@ -6,12 +6,12 @@ export function Header() {
     <Flex
       as="header"
       w="100%"
-      maxWidth={1480}
       h="20"
       mx="auto"
-      mt="4"
       px="6"
       align="center"
+      bg="#0C0C0C"
+
     >
       <Icon as={FaReact} fontSize="24" color="#61dafb" />
       <Text color="#61dafb" m="2">
